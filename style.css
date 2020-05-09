@@ -1,0 +1,94 @@
+.section1 {
+    border-left-style: solid orange;
+    border-left: solid orangered;
+    color: white;
+    background: rgba(73, 73, 73, 0.671);
+    font-size: 30px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serifs;
+    margin: auto;
+    width: 50%;
+    margin-top: 400px;
+}
+
+
+body {
+    background-image: url("back3.jpg");
+    background-repeat: no-repeat;
+    background-position: unset;
+    background-blend-mode: overlay;
+}
+
+#frog {
+    margin-left: 850px;
+    border-style: solid;
+    border-color: black;
+    border-width: 9px;
+    float:right;
+    margin-right: 200px;
+}
+
+.name {
+    float: left;
+    color: white;
+    margin-left: 350px;
+    font-style: italic;
+    font-size: 50px;
+}
+ul { 
+    display: inline-block; 
+    text-align: left; 
+}
+
+.all{
+    background: rgba(73, 73, 73, 0.671);
+    text-align: center;
+    
+}
+.shows {
+    border-top: black;
+    border-top-style: solid;
+    border-top-width: 9px;
+    margin: auto;
+    margin-bottom: 240px;
+    width: 60%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.music {
+    float: bottom;
+    border-top: black;
+    border-top-style: solid;
+    border-top-width: 9px;
+    margin: auto;
+    width: 60%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.contact {
+    float: bottom;
+    border-top: black;
+    border-top-style: solid;
+    border-top-width: 9px;
+    margin: auto;
+    width: 60%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 3px solid black;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
